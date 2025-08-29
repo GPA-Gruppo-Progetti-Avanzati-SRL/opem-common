@@ -1,4 +1,4 @@
-module GPA-Gruppo-Progetti-Avanzati-SRL/opem-common
+module github.com/GPA-Gruppo-Progetti-Avanzati-SRL/opem-common
 
 go 1.25
 
