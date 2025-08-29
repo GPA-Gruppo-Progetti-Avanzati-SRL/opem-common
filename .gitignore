@@ -30,3 +30,10 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+.DS_Store
+.idea/
+target/
+sonar-scan.sh
+.scannerwork/
+/local-files/
