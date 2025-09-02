@@ -8,7 +8,7 @@ import (
 
 type Config struct {
 	Kafka []kafkalks.Config `mapstructure:"kafka,omitempty" json:"kafka,omitempty" yaml:"kafka,omitempty"`
-	Mongo []mongolks.Config `mapstructure:"mongo,omitempty" json:"mongo,omitempty" yaml:"mongo,omitempty"`
+	Mongo []mongolks.Config `mapstructure:"mongo-db,omitempty" json:"mongo-db,omitempty" yaml:"mongo-db,omitempty"`
 	S3    []awss3lks.Config `mapstructure:"aws-s3,omitempty" json:"aws-s3,omitempty" yaml:"aws-s3,omitempty"`
 }
 
