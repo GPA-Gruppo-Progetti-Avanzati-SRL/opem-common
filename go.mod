@@ -4,11 +4,11 @@ go 1.25
 
 require (
 	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-aws-common v0.0.5
-	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-common v0.1.82
-	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-archive v0.1.20
-	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-client v0.1.20
-	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-kafka-common v0.2.88
-	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-mongo-common v0.0.92
+	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-common v0.1.83
+	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-archive v0.1.21
+	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-client v0.1.21
+	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-kafka-common v0.2.89
+	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-mongo-common v0.1.4
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/rs/zerolog v1.34.0
 	github.com/stretchr/testify v1.11.1
