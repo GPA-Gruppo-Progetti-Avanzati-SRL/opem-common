@@ -18,6 +18,8 @@ github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-kafka-common v0.2.89 h1:4r0ITu3L
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-kafka-common v0.2.89/go.mod h1:IBok3pYNMdjOtazk7ucAcGtvK1bgoqeg2gAeQof5Cco=
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-mongo-common v1.0.0-RC3 h1:b5rLo0U69fc4iiY4d/oy51F/l7CXJBEhED4BoyEcl8k=
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-mongo-common v1.0.0-RC3/go.mod h1:C4sSBHwM4L9OiCci1C8K0jv/BjPKKK/8yh8mWqb65A8=
+github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-mongo-common v1.0.1-RC7 h1:gk+MDsdL2cyhWmLdR7H3TOMw5yZ+56d2Sk5G4qRqh3Y=
+github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-mongo-common v1.0.1-RC7/go.mod h1:C4sSBHwM4L9OiCci1C8K0jv/BjPKKK/8yh8mWqb65A8=
 github.com/HdrHistogram/hdrhistogram-go v1.1.2 h1:5IcZpTvzydCQeHzK4Ef/D5rrSqwxob0t8PQPMybUNFM=
 github.com/HdrHistogram/hdrhistogram-go v1.1.2/go.mod h1:yDgFjdqOqDEKOvasDdhWNXYg9BVp4O+o5f6V/ehm6Oo=
 github.com/Masterminds/semver/v3 v3.2.1 h1:RN9w6+7QoMeJVGyfmbcgs28Br8cvmnucEXnY0rYXWg0=
