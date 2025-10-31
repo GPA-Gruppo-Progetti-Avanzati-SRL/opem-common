@@ -4,11 +4,11 @@ go 1.25
 
 require (
 	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-aws-common v0.0.5
-	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-common v0.1.85
+	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-common v0.1.86
 	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-archive v0.1.22
 	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-client v0.1.22
-	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-kafka-common v0.2.89
-	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-mongo-common v1.0.1-RC7
+	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-kafka-common v0.3.4
+	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-mongo-common v1.0.2-RC7
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/rs/zerolog v1.34.0
 	github.com/stretchr/testify v1.11.1
@@ -37,7 +37,7 @@ require (
 	github.com/aws/smithy-go v1.22.2 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
-	github.com/confluentinc/confluent-kafka-go/v2 v2.6.1 // indirect
+	github.com/confluentinc/confluent-kafka-go/v2 v2.11.1 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
