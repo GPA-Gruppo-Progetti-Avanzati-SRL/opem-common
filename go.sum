@@ -8,8 +8,8 @@ github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 h1:UQHMgLO+TxOEl
 github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1/go.mod h1:xomTg63KZ2rFqZQzSB4Vz2SUXa1BpHTVz9L5PTmPC4E=
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-aws-common v0.0.8 h1:IO+F8520jJrAiqtFAGFPk06bj+P7J/M/VqtUbh7uprY=
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-aws-common v0.0.8/go.mod h1:O0r7vRoewG8HsQQv4klJLj6SJNA100iw+zk0E7RUmRs=
-github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-common v0.1.90-RCA h1:mJ2nmlQ9E2dhIR+CppyZKTIF+G+9Z0emVyyTi0UszFo=
-github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-common v0.1.90-RCA/go.mod h1:Q456LEsf8ywWb9GU1sIesWakRSIWe6MisfM2Q5lDJlw=
+github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-common v0.1.90-RCB h1:wMsfKaTpBKJjdQXlZAlq/103KBroaDF0UorfzXN0pU8=
+github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-common v0.1.90-RCB/go.mod h1:Q456LEsf8ywWb9GU1sIesWakRSIWe6MisfM2Q5lDJlw=
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-archive v0.1.22 h1:Y9xmOW3B62HAE8/+DK8Q5ofQQlyQzYOoCHZlYg1BXX0=
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-archive v0.1.22/go.mod h1:kTw2sXdH2XfmeJ+q/w6xDOPFmMRFJPGOhy/ZhkKCTOw=
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-client v0.1.22 h1:sXoiOw2P4eSZO+W/KDkdBdYJBWh3DxmLwuaF+6QOvvw=
