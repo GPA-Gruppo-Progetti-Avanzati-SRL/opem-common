@@ -94,6 +94,7 @@ func (rs *RangeSet) Add(x int, mode AddMode, warnIfOverlaps bool) error {
 
 	if len(rs.Ranges) == 0 {
 		rs.Ranges = append(rs.Ranges, Range{x, x})
+		return nil
 	}
 
 	for ri, r := range rs.Ranges {
