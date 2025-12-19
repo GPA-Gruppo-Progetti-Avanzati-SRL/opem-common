@@ -16,8 +16,6 @@ github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-client v0.1.22 h1:sXoiOw2P4
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-client v0.1.22/go.mod h1:OTYGez5YnIBDEMXFzxu9i9pf9MR9tgvEg8MdYIfj63w=
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-kafka-common v0.3.4 h1:0NcuSMZ2tIHcXCqPwKGFrGTByF+VY/swKtoUQzgMJVY=
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-kafka-common v0.3.4/go.mod h1:phMoRcn8xQIjrpHWSDMMUK7+hbVJS+kFY/BWP48rzKM=
-github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-mongo-common v1.0.2-RCC h1:INO2BO/zuPc9sWhZEotAaxxkuBPvshm6fJtKum9oIPQ=
-github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-mongo-common v1.0.2-RCC/go.mod h1:C4sSBHwM4L9OiCci1C8K0jv/BjPKKK/8yh8mWqb65A8=
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-mongo-common v1.0.2-RCD h1:vGbUpXWIqcfK9R6JzjzgFmKdMgNmbjTkhAAAe8Rtjk0=
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-mongo-common v1.0.2-RCD/go.mod h1:C4sSBHwM4L9OiCci1C8K0jv/BjPKKK/8yh8mWqb65A8=
 github.com/HdrHistogram/hdrhistogram-go v1.1.2 h1:5IcZpTvzydCQeHzK4Ef/D5rrSqwxob0t8PQPMybUNFM=
