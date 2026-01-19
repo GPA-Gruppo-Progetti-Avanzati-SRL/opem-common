@@ -4,7 +4,7 @@ go 1.25
 
 require (
 	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-aws-common v0.0.10
-	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-common v0.1.90-RCD
+	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-common v0.1.90-RCF
 	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-archive v0.1.22
 	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-client v0.1.22
 	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-kafka-common v0.3.4
