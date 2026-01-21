@@ -1,14 +1,14 @@
 module github.com/GPA-Gruppo-Progetti-Avanzati-SRL/opem-common
 
-go 1.25
+go 1.25.5
 
 require (
-	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-aws-common v0.0.10
-	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-common v0.1.90-RCF
+	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-aws-common v0.0.11
+	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-common v0.1.91
 	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-archive v0.1.22
 	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-client v0.1.22
 	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-kafka-common v0.3.4
-	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-mongo-common v1.0.2-RCN
+	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-mongo-common v1.0.3
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/rs/zerolog v1.34.0
 	github.com/stretchr/testify v1.11.1
