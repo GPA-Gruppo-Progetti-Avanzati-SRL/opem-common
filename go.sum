@@ -8,8 +8,8 @@ github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 h1:UQHMgLO+TxOEl
 github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1/go.mod h1:xomTg63KZ2rFqZQzSB4Vz2SUXa1BpHTVz9L5PTmPC4E=
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-aws-common v0.0.11 h1:m8w2Q4DaDNA1+n9O9y2K2707uCzVqKdp0OSA/CWpZwQ=
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-aws-common v0.0.11/go.mod h1:F0eYNjDJ6QYIB8CmbIPWJNVfocpPEFMQkIl3mdWG0wE=
-github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-common v0.1.91 h1:EWPca6jOyYpoNiSydoQmv9uxRgL5NJx/hsGx0HOvpYM=
-github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-common v0.1.91/go.mod h1:Q456LEsf8ywWb9GU1sIesWakRSIWe6MisfM2Q5lDJlw=
+github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-common v0.1.92 h1:7s6wsDDtQREXOe+P5YMPYQ9ydA9DWse1CJ/+33nWG1M=
+github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-common v0.1.92/go.mod h1:Q456LEsf8ywWb9GU1sIesWakRSIWe6MisfM2Q5lDJlw=
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-archive v0.1.22 h1:Y9xmOW3B62HAE8/+DK8Q5ofQQlyQzYOoCHZlYg1BXX0=
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-archive v0.1.22/go.mod h1:kTw2sXdH2XfmeJ+q/w6xDOPFmMRFJPGOhy/ZhkKCTOw=
 github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-client v0.1.22 h1:sXoiOw2P4eSZO+W/KDkdBdYJBWh3DxmLwuaF+6QOvvw=
@@ -362,8 +362,8 @@ github.com/youmark/pkcs8 v0.0.0-20240726163527-a2c0da244d78/go.mod h1:aL8wCCfTfS
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
 github.com/yusufpapurcu/wmi v1.2.3 h1:E1ctvB7uKFMOJw3fdOW32DwGE9I7t++CRUEMKvFoFiw=
 github.com/yusufpapurcu/wmi v1.2.3/go.mod h1:SBZ9tNy3G9/m5Oi98Zks0QjeHVDvuK0qfxQmPyzfmi0=
-go.mongodb.org/mongo-driver/v2 v2.4.1 h1:hGDMngUao03OVQ6sgV5csk+RWOIkF+CuLsTPobNMGNI=
-go.mongodb.org/mongo-driver/v2 v2.4.1/go.mod h1:jHeEDJHJq7tm6ZF45Issun9dbogjfnPySb1vXA7EeAI=
+go.mongodb.org/mongo-driver/v2 v2.4.2 h1:HrJ+Auygxceby9MLp3YITobef5a8Bv4HcPFIkml1U7U=
+go.mongodb.org/mongo-driver/v2 v2.4.2/go.mod h1:jHeEDJHJq7tm6ZF45Issun9dbogjfnPySb1vXA7EeAI=
 go.opentelemetry.io/auto/sdk v1.2.1 h1:jXsnJ4Lmnqd11kwkBV2LgLoFMZKizbCi5fNZ/ipaZ64=
 go.opentelemetry.io/auto/sdk v1.2.1/go.mod h1:KRTj+aOaElaLi+wW1kO/DZRXwkF4C5xPbEe3ZiIhN7Y=
 go.opentelemetry.io/contrib/instrumentation/go.mongodb.org/mongo-driver/v2/mongo/otelmongo v0.0.0-20251224174256-ac3d638b2e92 h1:Naa4vthW3HG348IQ1KZ9og23xx/7CIupwSFkhrPFojg=
