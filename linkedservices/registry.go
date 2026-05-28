@@ -3,7 +3,6 @@ package linkedservices
 import (
 	"github.com/GPA-Gruppo-Progetti-Avanzati-SRL/opem-common/linkedservices/hermodr"
 	"github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-aws-common/s3/awss3lks"
-	"github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-kafka-common/kafkalks"
 	"github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-mongo-common/mongolks"
 
 	"github.com/rs/zerolog/log"
@@ -26,11 +25,6 @@ func InitRegistry(cfg *Config) error {
 	}
 
 	_, err = awss3lks.Initialize(cfg.S3)
-	if err != nil {
-		return err
-	}
-
-	_, err = kafkalks.Initialize(cfg.Kafka)
 	if err != nil {
 		return err
 	}
