@@ -4,13 +4,13 @@ go 1.26
 
 require (
 	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-aws-common v0.0.11
-	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-common v0.1.92
-	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-archive v0.1.22
-	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-client v0.1.22
-	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-kafka-common v0.3.4
+	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-common v0.1.93
+	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-archive v0.1.28
+	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-http-client v0.1.28
+	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-kafka-common v0.3.5
 	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-mongo-common v1.0.4
 	github.com/opentracing/opentracing-go v1.2.0
-	github.com/rs/zerolog v1.34.0
+	github.com/rs/zerolog v1.35.1
 	github.com/stretchr/testify v1.11.1
 	github.com/uber/jaeger-client-go v2.30.0+incompatible
 	github.com/uber/jaeger-lib v2.4.1+incompatible
@@ -44,7 +44,7 @@ require (
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-openapi/jsonreference v0.21.0 // indirect
 	github.com/go-openapi/swag v0.23.0 // indirect
-	github.com/go-resty/resty/v2 v2.16.5 // indirect
+	github.com/go-resty/resty/v2 v2.17.2 // indirect
 	github.com/golang/snappy v1.0.0 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/klauspost/compress v1.18.2 // indirect
@@ -82,7 +82,6 @@ require (
 	golang.org/x/sync v0.19.0 // indirect
 	golang.org/x/sys v0.39.0 // indirect
 	golang.org/x/text v0.32.0 // indirect
-	golang.org/x/time v0.9.0 // indirect
 	google.golang.org/grpc v1.70.0 // indirect
 	google.golang.org/protobuf v1.36.9 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
